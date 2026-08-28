@@ -1,0 +1,158 @@
+country_name_in_crp,country_name_wb,country_code_iso3,country_code_iso2,match_type,country_code_source,translation_layer_source
+Abu Dhabi,,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Albania,Albania,ALB,AL,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Andorra (Principality of),,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Angola,Angola,AGO,AO,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Argentina,Argentina,ARG,AR,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Armenia,Armenia,ARM,AM,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Aruba,Aruba,ABW,AW,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Australia,Australia,AUS,AU,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Austria,Austria,AUT,AT,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Azerbaijan,Azerbaijan,AZE,AZ,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Bahamas,,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Bahrain,Bahrain,BHR,BH,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Bangladesh,Bangladesh,BGD,BD,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Barbados,Barbados,BRB,BB,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Belarus,Belarus,BLR,BY,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Belgium,Belgium,BEL,BE,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Belize,Belize,BLZ,BZ,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Benin,Benin,BEN,BJ,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Bermuda,Bermuda,BMU,BM,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Bolivia,Bolivia,BOL,BO,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,BA,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Botswana,Botswana,BWA,BW,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Brazil,Brazil,BRA,BR,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Bulgaria,Bulgaria,BGR,BG,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Burkina Faso,Burkina Faso,BFA,BF,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Cambodia,Cambodia,KHM,KH,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Cameroon,Cameroon,CMR,CM,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Canada,Canada,CAN,CA,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Cape Verde,,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Cayman Islands,Cayman Islands,CYM,KY,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Chile,Chile,CHL,CL,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+China,China,CHN,CN,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Colombia,Colombia,COL,CO,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Congo (Democratic Republic of),,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Congo (Republic of),,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Cook Islands,,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Costa Rica,Costa Rica,CRI,CR,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Côte d'Ivoire,,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Croatia,Croatia,HRV,HR,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Cuba,Cuba,CUB,CU,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Curacao,Curacao,CUW,CW,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Cyprus,Cyprus,CYP,CY,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Czech Republic,Czechia,CZE,CZ,manual_override,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Denmark,Denmark,DNK,DK,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Dominican Republic,Dominican Republic,DOM,DO,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Ecuador,Ecuador,ECU,EC,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Egypt,,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+El Salvador,El Salvador,SLV,SV,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Estonia,Estonia,EST,EE,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Ethiopia,Ethiopia,ETH,ET,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Fiji,Fiji,FJI,FJ,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Finland,Finland,FIN,FI,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+France,France,FRA,FR,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Gabon,Gabon,GAB,GA,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Georgia,Georgia,GEO,GE,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Germany,Germany,DEU,DE,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Ghana,Ghana,GHA,GH,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Greece,Greece,GRC,GR,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Guatemala,Guatemala,GTM,GT,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Guernsey (States of),,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Honduras,Honduras,HND,HN,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Hong Kong,,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Hungary,Hungary,HUN,HU,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Iceland,Iceland,ISL,IS,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+India,India,IND,IN,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Indonesia,Indonesia,IDN,ID,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Iraq,Iraq,IRQ,IQ,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Ireland,Ireland,IRL,IE,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Isle of Man,Isle of Man,IMN,IM,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Israel,Israel,ISR,IL,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Italy,Italy,ITA,IT,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Jamaica,Jamaica,JAM,JM,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Japan,Japan,JPN,JP,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Jersey (States of),,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Jordan,Jordan,JOR,JO,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Kazakhstan,Kazakhstan,KAZ,KZ,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Kenya,Kenya,KEN,KE,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Korea,,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Kuwait,Kuwait,KWT,KW,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Kyrgyzstan,,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Laos,,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Latvia,Latvia,LVA,LV,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Lebanon,Lebanon,LBN,LB,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Liechtenstein,Liechtenstein,LIE,LI,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Lithuania,Lithuania,LTU,LT,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Luxembourg,Luxembourg,LUX,LU,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Macao,,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Macedonia,,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Malaysia,Malaysia,MYS,MY,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Maldives,Maldives,MDV,MV,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Mali,Mali,MLI,ML,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Malta,Malta,MLT,MT,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Mauritius,Mauritius,MUS,MU,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Mexico,Mexico,MEX,MX,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Moldova,Moldova,MDA,MD,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Mongolia,Mongolia,MNG,MN,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Montenegro,Montenegro,MNE,ME,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Montserrat,,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Morocco,Morocco,MAR,MA,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Mozambique,Mozambique,MOZ,MZ,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Namibia,Namibia,NAM,NA,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Nepal,Nepal,NPL,NP,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Netherlands,Netherlands,NLD,NL,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+New Zealand,New Zealand,NZL,NZ,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Nicaragua,Nicaragua,NIC,NI,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Niger,Niger,NER,NE,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Nigeria,Nigeria,NGA,NG,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Norway,Norway,NOR,NO,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Oman,Oman,OMN,OM,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Pakistan,Pakistan,PAK,PK,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Panama,Panama,PAN,PA,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Papua New Guinea,Papua New Guinea,PNG,PG,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Paraguay,Paraguay,PRY,PY,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Peru,Peru,PER,PE,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Philippines,Philippines,PHL,PH,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Poland,Poland,POL,PL,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Portugal,Portugal,PRT,PT,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Qatar,Qatar,QAT,QA,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Ras Al Khaimah (Emirate of),,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Romania,Romania,ROU,RO,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Rwanda,Rwanda,RWA,RW,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Saudi Arabia,Saudi Arabia,SAU,SA,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Senegal,Senegal,SEN,SN,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Serbia,Serbia,SRB,RS,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Sharjah,,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Singapore,Singapore,SGP,SG,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Slovakia,,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Slovenia,Slovenia,SVN,SI,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Solomon Islands,Solomon Islands,SLB,SB,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+South Africa,South Africa,ZAF,ZA,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Spain,Spain,ESP,ES,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Sri Lanka,Sri Lanka,LKA,LK,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+St. Maarten,,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+St. Vincent & the Grenadines,St. Vincent and the Grenadines,VCT,VC,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Suriname,Suriname,SUR,SR,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Swaziland,,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Sweden,Sweden,SWE,SE,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Switzerland,Switzerland,CHE,CH,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Taiwan,,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Tajikistan,Tajikistan,TJK,TJ,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Tanzania,Tanzania,TZA,TZ,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Thailand,Thailand,THA,TH,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Togo,Togo,TGO,TG,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Trinidad and Tobago,Trinidad and Tobago,TTO,TT,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Tunisia,Tunisia,TUN,TN,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Turkey,,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Turks and Caicos Islands,Turks and Caicos Islands,TCA,TC,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Uganda,Uganda,UGA,UG,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Ukraine,Ukraine,UKR,UA,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+United Arab Emirates,United Arab Emirates,ARE,AE,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+United Kingdom,United Kingdom,GBR,GB,manual_override,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+United States,United States,USA,US,manual_override,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Uruguay,Uruguay,URY,UY,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Uzbekistan,Uzbekistan,UZB,UZ,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Venezuela,,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Vietnam,,,,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
+Zambia,Zambia,ZMB,ZM,normalized_exact_or_close,World Bank country metadata API,World Bank country metadata API; manual overrides for naming differences between CRP labels and World Bank labels
